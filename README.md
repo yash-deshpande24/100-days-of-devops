@@ -16,3 +16,4 @@ App → Docker → Terraform → Monitoring, deployed on AWS (ECS + EC2)
 | Day | Topic | Notes |
 |-----|-------|-------|
 | 1 | Linux Process Debugging | [link](./day-01-linux-process-debugging/notes.md) |
+| 2 |  Shell Scripting - Error Handling | [link](./day-02-shell-scripting/notes.md) |
